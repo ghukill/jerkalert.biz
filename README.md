@@ -1,2 +1,2 @@
 # jerkalert.biz
-![](./teeth.gif "Jerk Alert!!!!!!")
+![](https://raw.githubusercontent.com/ghukill/jerkalert.biz/master/sc_teeth.gif "Jerk Alert!!!!!!")
